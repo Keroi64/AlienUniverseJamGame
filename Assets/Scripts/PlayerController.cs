@@ -28,6 +28,7 @@ public class PlayerController : MonoBehaviour
     //GM
     private GameManager gameManager;
     public AudioSource playerHurtSound;
+    public AudioSource playerFootstepSound;
     
 
 
@@ -56,10 +57,20 @@ public class PlayerController : MonoBehaviour
     void MovePlayer()
     {
         Vector3 moveVector = Input.GetAxis("Horizontal") * transform.right + Input.GetAxis("Vertical") * transform.forward;
-
+        // Hareket varsa ve yerdeyse ses çalsın
+        if (moveVector.magnitude > 0.1f && isGrounded)
+        {
+            if (!playerFootstepSound.isPlaying)
+            {
+                playerFootstepSound.Play();
+            }
+        }
+        else
+        {
+            playerFootstepSound.Stop();
+        }
         characterController.Move(moveVector * speed * Time.deltaTime);
 
-        
     }
 
     void GroundCheck()

@@ -69,7 +69,7 @@ public class GameManager : MonoBehaviour
     }
     public void RestartGame()
     {
-        SceneManager.LoadScene("RealWorld");
+        SceneManager.LoadScene("EntryScene");
         Time.timeScale = 1;
     }
     public void NextLevel()
