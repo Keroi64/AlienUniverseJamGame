@@ -29,6 +29,7 @@ public class PlayerController : MonoBehaviour
     private GameManager gameManager;
     public AudioSource playerHurtSound;
     public AudioSource playerFootstepSound;
+    public AudioSource playerJumpSound;
     
 
 
@@ -87,10 +88,12 @@ public class PlayerController : MonoBehaviour
         if (isGrounded && gravityVector.y < 0)
         {
             gravityVector.y = -3f;
+            playerJumpSound.Stop();
         }
         if (Input.GetButtonDown("Jump") && isGrounded)
         {
             gravityVector.y = Mathf.Sqrt(jumpSpeed * -2f * gravity);
+            playerJumpSound.Play();
         }
     }
 
