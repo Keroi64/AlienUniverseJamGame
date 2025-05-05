@@ -20,5 +20,6 @@ Audacity – Ses düzenleme ve efektler için
 Post Processing (Unity) – Görsel efektler ve atmosfer için
 Mixamo – Karakter animasyonları için
 Unity Asset Store – Hazır 3D modeller, sesler ve efektler için 
-Tanıtım Video 🎬
+
+## 🎬 Tanıtım Video 
 https://www.youtube.com/watch?v=0vGy-9LxQ7M
