@@ -59,7 +59,8 @@ public class GameManager : MonoBehaviour
 
         Cursor.lockState = CursorLockMode.None;
         Time.timeScale = 0;
-        
+        AudioListener.pause = true;
+
     }
 
     public void AppQuit()
