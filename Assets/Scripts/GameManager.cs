@@ -87,6 +87,6 @@ public class GameManager : MonoBehaviour
     public void AddKill()
     {
         killCount++;
-        killCountText.text = "Aliens Killed: " + killCount;
+        killCountText.text = "Uzaylı Öldürüldü: " + killCount;
     }
 }

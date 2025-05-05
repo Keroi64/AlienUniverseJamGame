@@ -5840,7 +5840,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -40.000977, y: 0}
+  m_AnchoredPosition: {x: -40.000916, y: 0}
   m_SizeDelta: {x: -893.98, y: -304.68}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &794890798
@@ -7394,7 +7394,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -40, y: 0}
+  m_AnchoredPosition: {x: -39.99994, y: 0}
   m_SizeDelta: {x: -893.9838, y: -304.6761}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1116220366
@@ -7783,7 +7783,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 9aadde45ece12475ea4aac8381197c44, type: 3}
+    m_Font: {fileID: 12800000, guid: f1400bd4144d08a478d4266636c7d6bc, type: 3}
     m_FontSize: 40
     m_FontStyle: 0
     m_BestFit: 0
@@ -7838,7 +7838,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -12, y: 436}
+  m_AnchoredPosition: {x: -12, y: 357}
   m_SizeDelta: {x: 800, y: 300}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1237275837
@@ -7862,7 +7862,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 6051e644df4cc4fb788b1168cb84ac59, type: 3}
+    m_Font: {fileID: 12800000, guid: f1400bd4144d08a478d4266636c7d6bc, type: 3}
     m_FontSize: 91
     m_FontStyle: 0
     m_BestFit: 0
@@ -7874,7 +7874,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Alien Universe
+  m_Text: ALIEN UNIVERSE
 --- !u!222 &1237275838
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -10785,8 +10785,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 9aadde45ece12475ea4aac8381197c44, type: 3}
-    m_FontSize: 40
+    m_Font: {fileID: 12800000, guid: f1400bd4144d08a478d4266636c7d6bc, type: 3}
+    m_FontSize: 38
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
