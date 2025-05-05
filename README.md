@@ -13,3 +13,4 @@ Dünya büyük bir tehlike altındadır. Bilinmeyen bir evrenden gelen uzaylıla
 Tüm uzaylıları etkisiz hale getirdikten sonra bir geçit açılır. Bu geçit, başka bir evrene ışınlanmanı sağlar. Yeni evrende seni bekleyen son düşmanları da alt ederek oyunu başarıyla tamamlarsın.
 
 
+![image](https://github.com/user-attachments/assets/712ab4f2-9d9b-4231-a5eb-4e7304c4b8d2)
