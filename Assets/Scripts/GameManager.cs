@@ -72,6 +72,8 @@ public class GameManager : MonoBehaviour
     {
         SceneManager.LoadScene("EntryScene");
         Time.timeScale = 1;
+        AudioListener.pause = false;
+
     }
     public void NextLevel()
     {
