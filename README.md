@@ -1,10 +1,10 @@
 # AlienUniverse
 
-**Uzaylılar dünyayı ele geçirdi... ve seni durdurabilecek tek kişi sensin!**
+**Uzaylılar dünyayı ele geçirdi... ve bunu durdurabilecek tek kişi sensin!**
 
 ## 🎮 Oyun Hakkında
 
-"Uzaylı Avı", dünyayı istila eden bir grup uzaylıya karşı verilen mücadeleyi konu alan bir aksiyon/macera oyunudur. Oyuncu, gizemli bir dış ses tarafından yönlendirilerek bu tehdidi ortadan kaldırmakla görevlendirilir.
+"Alien Universe", dünyayı istila eden bir grup uzaylıya karşı verilen mücadeleyi konu alan bir aksiyon/macera oyunudur. Oyuncu, gizemli bir dış ses tarafından yönlendirilerek bu tehdidi ortadan kaldırmakla görevlendirilir.
 
 ## 📜 Hikaye
 
